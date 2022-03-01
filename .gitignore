@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+jigsaw-toxic-comment-classification-challenge.zip
